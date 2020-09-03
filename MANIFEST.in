@@ -1,4 +1,7 @@
+include LICENSE
+include README.md
 include src/dometawrite/templates/sshconfig.jinja
 include src/dometawrite/templates/debug.jinja
 include src/dometawrite/templates/authorizedkeys.jinja
 include src/dometawrite/templates/droplet_envvars.jinja
+include requirements.txt
